@@ -3,3 +3,4 @@ max-line-length=150
 ignore =
     A0003,
     A0002,
+    F401,

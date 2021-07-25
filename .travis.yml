@@ -3,6 +3,6 @@ language: python
 python :
   - '3.7.4'
 install :
-  - pip install -r requirments.txt
+  - pip install -r requiments.txt
 script:
   - flake8 ./test_two
